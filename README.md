@@ -14,5 +14,5 @@
 
 ## WANT    TO   LEARN
 
-![future](https://skillicons.dev/icons?i=flutter,c,python,cpp,lua,react,kotlin,vite)
+![future](https://skillicons.dev/icons?i=flutter,c,python,cpp,lua,react,kotlin,vite,electron)
 
