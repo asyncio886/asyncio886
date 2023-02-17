@@ -4,15 +4,15 @@
 - 梦想是可以开发健壮的netty/vertx大型程序
 - 希望不再三天打鱼两天晒网，能多接触操作系统开发
 
-## 技术栈
+## 技术栈🧐
 
 ![Language & Framework & tech](https://skillicons.dev/icons?i=java,javascript,typescript,vue,webpack,nodejs,express,mysql,git,html,css,spring,maven,redis,docker)
 
-## 开发工具
+## 开发工具🙃
 
 ![Tools](https://skillicons.dev/icons?i=vscode,idea,androidstudio)
 
-## WANT    TO   LEARN
+## WANT    TO   LEARN🤩
 
 ![future](https://skillicons.dev/icons?i=flutter,c,python,cpp,lua,react,kotlin,vite,electron)
 
