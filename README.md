@@ -4,7 +4,7 @@
 
 ## 技术栈🧐
 
-![Language & Framework & tech](https://skillicons.dev/icons?i=java,javascript,typescript,vue,webpack,nodejs,express,mysql,git,html,css,spring,maven,redis,docker,vite)
+![Language & Framework & tech](https://skillicons.dev/icons?i=java,go,lua,javascript,typescript,vue,react,webpack,nodejs,express,mysql,git,html,css,spring,maven,redis,docker,vite)
 
 ## 开发工具🙃
 
@@ -12,5 +12,5 @@
 
 ## WANT    TO   LEARN🤩
 
-![future](https://skillicons.dev/icons?i=flutter,c,python,cpp,lua,react,kotlin,electron)
+![future](https://skillicons.dev/icons?i=flutter,c,python,cpp,kotlin,electron)
 
