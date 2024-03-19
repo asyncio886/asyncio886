@@ -1,6 +1,6 @@
 ## 技术栈🧐
 
-![Language & Framework & tech](https://skillicons.dev/icons?i=java,gojavascript,typescript,vue,nodejs,redis,docker,vite)
+![Language & Framework & tech](https://skillicons.dev/icons?i=java,go,javascript,typescript,vue,nodejs,redis,docker,vite)
 
 ## 开发工具🙃
 
